@@ -1,4 +1,4 @@
-package Chapter2.CreatingAndDestroyingObjects.StaticFactoryMethods;
+package Chapter2.CreatingAndDestroyingObjects.Item1_StaticFactoryMethods;
 
 import java.util.Arrays;
 

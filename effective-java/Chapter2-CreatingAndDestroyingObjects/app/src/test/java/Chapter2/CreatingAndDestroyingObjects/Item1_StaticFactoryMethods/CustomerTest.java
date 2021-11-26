@@ -1,4 +1,4 @@
-package Chapter2.CreatingAndDestroyingObjects.StaticFactoryMethods;
+package Chapter2.CreatingAndDestroyingObjects.Item1_StaticFactoryMethods;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
